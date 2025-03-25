@@ -1,4 +1,3 @@
-
 # Coste de Mestre - Landing Page
 
 Landing page para uma barbearia, projetada para destacar os serviços, localização e permitir o agendamento online. A página possui animações suaves utilizando a biblioteca AOS e integração com o WhatsApp para agendamentos rápidos.
@@ -27,6 +26,7 @@ Landing page para uma barbearia, projetada para destacar os serviços, localiza�
 
 - **HTML5**
 - **CSS3**
+- **SASS**
 - **JavaScript**
 - **AOS (Animate On Scroll)**
 - **Font Awesome** (ícones sociais)
