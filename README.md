@@ -45,14 +45,3 @@ Veja a landing page em funcionamento clicando no link abaixo:
 3. Comite suas alterações (`git commit -am 'Adiciona nova feature'`).
 4. Envie para a branch (`git push origin feature/nova-feature`).
 5. Abra um pull request.
-
-## Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-```
-
-### Explicação das alterações:
-- **Link para a demonstração**: O link para a landing page hospedada no Vercel está no README com o texto "Visite a página".
-- **Substitua `SEU-USUARIO`** pelo seu nome de usuário no GitHub no comando de clonagem (`git clone`).
-
-Agora, quem acessar o repositório poderá visitar a página online sem precisar de um vídeo ou download.
